@@ -1,3 +1,4 @@
+// This file sends a message to content.js file.
 $(function() {
 	var color = $('#fontColor').val();
 	$('#fontColor').on("change paste keyup", function() {
